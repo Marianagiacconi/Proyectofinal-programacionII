@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "application",
+      "type": "ar.edu.um.mariana.config.ApplicationProperties",
+      "sourceType": "ar.edu.um.mariana.config.ApplicationProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
